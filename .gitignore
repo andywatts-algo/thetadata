@@ -1,0 +1,6 @@
+polygonAPIkey.py
+data
+__pycache__
+*.gz
+ThetaTerminal.jar
+credentials.py
